@@ -1,0 +1,1191 @@
+,text_id,category,mention,start,end,sentiment
+0,3976,Whole,ресторане,71,80,positive
+1,3976,Whole,ресторанах,198,208,positive
+2,3976,Whole,ресторане,256,265,positive
+3,3976,Service,Столик бронировали,267,285,positive
+4,3976,Service,администратор,322,335,positive
+5,3976,Service,предварительный заказ,349,370,positive
+6,3976,Whole,ресторан,413,421,positive
+7,3976,Whole,ресторане,476,485,positive
+8,3976,Food,горячее блюдо,524,537,positive
+9,3976,Food,Меню,564,568,positive
+10,3976,Service,Обслуживание,688,700,positive
+11,3976,Service,официанты,739,748,positive
+12,3976,Interior,Интерьер,854,862,positive
+13,3976,Interior,диваны,880,886,positive
+14,3976,Interior,музыкальная программа,901,922,positive
+15,3976,Interior,ведущий,933,940,positive
+16,3976,Whole,ресторан,1019,1027,positive
+17,3976,Food,кухня,1038,1043,positive
+18,3976,Whole,Руководству,1053,1064,positive
+19,3976,Service,персоналу,1067,1076,positive
+20,2495,Whole,кафе,42,46,positive
+21,2495,Service,поварам,84,91,positive
+22,2495,Food,блюда,107,112,positive
+23,2495,Food,бивштексы,129,138,positive
+24,2495,Service,обслуживание,292,304,positive
+25,2495,Interior,атмосферу,315,324,positive
+26,2495,Service,официантов,341,351,positive
+27,2495,Whole,место,408,413,positive
+28,2495,Food,кухней,429,435,positive
+29,2495,Service,персоналом,455,465,positive
+30,2107,Whole,заведение,21,30,negative
+31,2107,Interior,втором этаже,81,93,negative
+32,2107,Service,официанта,170,179,negative
+33,2107,Service,пледы,203,208,negative
+34,2107,Food,Чай,210,213,negative
+35,2107,Service,принесли,276,284,negative
+36,2107,Food,салат,287,292,negative
+37,2107,Service,принесли,314,322,negative
+38,2107,Food,горячее,325,332,negative
+39,2107,Food,блюдо,446,451,negative
+40,2107,Service,заказа,491,497,negative
+41,2107,Food,"овощи, приготовленные на углях",499,529,negative
+42,2107,Food,Порции,610,616,negative
+43,33591,Whole,кафе,9,13,positive
+44,33591,Food,еда,107,110,positive
+45,33591,Food,блюда,120,125,positive
+46,33591,Interior,обстановка,127,137,positive
+47,33591,Service,администратор,148,161,positive
+48,33591,Whole,кафе,191,195,positive
+49,33591,Price,цены,210,214,positive
+50,33591,Food,хачапури с сыром,349,365,positive
+51,33591,Food,лосось,375,381,positive
+52,33591,Food,кусок,383,388,positive
+53,33591,Food,еды,437,440,positive
+54,33591,Interior,антураж,562,569,positive
+55,33591,Interior,верхнем этаже,645,658,positive
+56,33591,Interior,караоке,700,707,positive
+57,33591,Food,кальян,730,736,positive
+58,33591,Whole,место,764,769,positive
+59,33591,Interior,обстановке,889,899,positive
+60,34956,Whole,ресторанчик,99,110,neutral
+61,34956,Food,кухня,175,180,neutral
+62,34956,Food,котлетки из лосося с пюре,200,225,neutral
+63,34956,Food,канадский ролл,228,242,neutral
+64,34956,Whole,заведения,289,298,neutral
+65,34956,Food,котлетки,302,310,neutral
+66,34956,Food,роллы,313,318,neutral
+67,34956,Food,Ролл,429,433,neutral
+68,34956,Food,блюда,492,497,neutral
+69,34956,Whole,сетевых заведений японской кухни,524,556,neutral
+70,34956,Food,суши,629,633,neutral
+71,34956,Service,официанту,682,691,neutral
+72,34956,Service,шеф-повар,717,726,neutral
+73,34956,Food,меню,729,733,neutral
+74,34956,Food,котлетки из лосося и креветок,793,822,neutral
+75,34956,Food,блюда,883,888,neutral
+76,34956,Food,суп из двух рыб,903,918,positive
+77,34956,Food,стейк из лосося,920,935,neutral
+78,34956,Food,бефстроганов с пюре,938,957,neutral
+79,34956,Interior,Интерьер,959,967,neutral
+80,34956,Service,обслуживание,1018,1030,neutral
+81,34956,Service,администраторы,1163,1177,neutral
+82,34956,Whole,ресторанов,1189,1199,neutral
+83,34956,Food,котлетки,1253,1261,neutral
+84,36512,Whole,ресторан,50,58,positive
+85,36512,Whole,место,111,116,positive
+86,36512,Service,ресторана,215,224,positive
+87,36512,Interior,атмосфера,235,244,positive
+88,36512,Interior,интерьер,286,294,positive
+89,36512,Interior,кресла,311,317,positive
+90,36512,Interior,диванчики,320,329,positive
+91,36512,Interior,музыка,350,356,positive
+92,36512,Food,меню,367,371,positive
+93,36512,Food,блюда,388,393,positive
+94,36512,Service,персонал,420,428,positive
+95,36512,Service,персоналу,461,470,positive
+96,36512,Service,отношение,487,496,positive
+97,36512,Interior,декорированные,539,553,positive
+98,36512,Interior,украшенные,556,566,positive
+99,36512,Interior,свадебный зал,567,580,positive
+100,36512,Interior,столы,583,588,positive
+101,36512,Service,шефу,609,613,positive
+102,36512,Service,поварам,621,628,positive
+103,36512,Food,блюда,668,673,positive
+104,36512,Service,управляющей рестораном,739,761,positive
+105,36512,Food,меню,831,835,positive
+106,36512,Interior,декорировании,839,852,positive
+107,36512,Interior,свадебного зала,853,868,positive
+108,36512,Service,организовала,880,892,positive
+109,36512,Whole,ресторан,1021,1029,positive
+110,36512,Food,покушать,1030,1038,positive
+111,36512,Whole,Ресторан,1066,1074,positive
+112,36926,Whole,ресторане,37,46,positive
+113,36926,Whole,место,81,86,positive
+114,36926,Food,кухня,99,104,positive
+115,36926,Interior,интерьер,113,121,positive
+116,36926,Service,официанты,140,149,positive
+117,36926,Interior,атмосфера,171,180,positive
+118,36926,Food,порции,238,244,positive
+119,36926,Price,ценник,281,287,positive
+120,36926,Food,еда,303,306,positive
+121,36926,Price,деньги,320,326,positive
+122,36926,Food,омлет по-баварски,365,382,positive
+123,36926,Food,салат с теплой куриной печенью,390,420,positive
+124,36926,Food,пиво,428,432,positive
+125,36926,Food,белого вина,453,464,positive
+126,13823,Whole,аппетит,7,16,neutral
+127,13823,Service,встретил,138,146,neutral
+128,13823,Service,менеджер,147,155,neutral
+129,13823,Service,девушка,179,186,neutral
+130,13823,Service,проводила к столу,188,205,neutral
+131,13823,Service,дала меню,208,217,neutral
+132,13823,Service,официантка,242,252,neutral
+133,13823,Service,приняла заказ,254,267,neutral
+134,13823,Whole,ресторан,337,345,neutral
+135,13823,Service,заведения,431,440,neutral
+136,13823,Food,Бизнес ланч,495,506,neutral
+137,13823,Price,цене,582,586,neutral
+138,13823,Whole,место,610,615,neutral
+139,13823,Food,меню,639,643,neutral
+140,13823,Price,цены,656,660,neutral
+141,13823,Service,обслуживания,680,692,neutral
+142,13823,Whole,заведению,735,744,neutral
+143,29395,Whole,Ресторан,0,8,positive
+144,29395,Whole,ресторане,89,98,positive
+145,29395,Food,Кухня,204,209,positive
+146,29395,Service,обслуживание,225,237,positive
+147,29395,Whole,ресторанах,302,312,positive
+148,29395,Food,блюда,343,348,positive
+149,29395,Food,шампанское,350,360,positive
+150,29395,Food,шампанское,403,413,positive
+151,29395,Food,кушали,510,516,positive
+152,29395,Food,кушали,518,524,positive
+153,29395,Food,едой,555,559,positive
+154,29395,Whole,ресторане,632,641,positive
+155,29395,Interior,музыка,657,663,positive
+156,29395,Whole,ресторан,870,878,positive
+157,29395,Whole,ТБИЛИСО,932,941,positive
+158,34045,Whole,кафе,34,38,positive
+159,34045,Food,Кухня,98,103,positive
+160,34045,Service,Обслуживание,197,209,positive
+161,34045,Service,персонал,229,237,positive
+162,34045,Whole,кафе,305,309,positive
+163,34045,Food,кофе,347,351,positive
+164,34045,Interior,обстановке,364,374,positive
+165,28083,Whole,ресторан,12,20,negative
+166,28083,Whole,паулайнере,174,184,negative
+167,28083,Service,обслуживание,228,240,negative
+168,28083,Food,кухня,251,256,negative
+169,28083,Food,пиво,262,266,negative
+170,28083,Service,заказывали,410,420,negative
+171,28083,Service,персонал,437,445,negative
+172,28083,Service,обслуживала,492,503,negative
+173,28083,Service,девушка Мария,515,528,negative
+174,28083,Service,девушка,592,599,negative
+175,28083,Food,горячее,832,839,negative
+176,11421,Whole,ресторане,12,21,neutral
+177,11421,Food,Ужинали,72,79,negative
+178,11421,Interior,2 этаже,93,100,positive
+179,11421,Service,обслуживание,111,123,neutral
+180,11421,Service,приносили-уносили,129,146,neutral
+181,11421,Food,выбор в меню,182,194,neutral
+182,11421,Food,разнообразия блюд,246,263,neutral
+183,11421,Food,кухне,290,295,neutral
+184,11421,Food,ужина,340,345,neutral
+185,11421,Interior,музыканты,353,362,neutral
+186,11421,Interior,музыка,385,391,neutral
+187,11421,Whole,ресторан,427,435,neutral
+188,27375,Whole,ресторанчик,43,54,positive
+189,27375,Food,пиво,97,101,positive
+190,27375,Food,суджук,125,131,positive
+191,27375,Food,закуски,146,153,positive
+192,27375,Interior,атмосфера,158,167,positive
+193,27375,Service,персонал,181,189,positive
+194,27375,Service,девушка,203,210,positive
+195,27375,Service,администратор ресторана,221,244,positive
+196,27375,Service,обслуживание,292,304,positive
+197,27375,Service,подход к посетителям,318,338,positive
+198,27375,Service,отношение к клиентам,353,373,positive
+199,27375,Service,сервиса,425,432,positive
+200,27375,Whole,заведений,481,490,positive
+201,27375,Whole,места,557,562,positive
+202,18780,Food,съесть,38,44,negative
+203,18780,Food,ролл,53,57,negative
+204,18780,Food,роллы,128,133,negative
+205,18780,Food,блюд европейской кухни,172,194,negative
+206,18780,Food,роллов,202,208,negative
+207,18780,Whole,кафе,220,224,negative
+208,18780,Whole,заведение,328,337,positive
+209,18780,Service,заказа столика,371,385,positive
+210,18780,Interior,веранда,493,500,negative
+211,18780,Price,По ценам,502,510,negative
+212,18780,Food,поесть,533,539,negative
+213,18780,Food,роллы,542,547,negative
+214,18780,Food,блюдо,567,572,negative
+215,18780,Food,десерт,573,579,negative
+216,18780,Food,холодные напитки,581,597,negative
+217,18780,Price,1450-1750р с человека,612,633,negative
+218,18780,Food,еды,646,649,negative
+219,18780,Food,съесть,666,672,negative
+220,18780,Whole,место,765,770,negative
+221,18780,Food,еды,803,806,negative
+222,18780,Service,обслуживания,809,821,negative
+223,30744,Service,заказывали заранее,75,93,positive
+224,30744,Service,заказ приносили,101,116,positive
+225,30744,Food,пивом,150,155,positive
+226,30744,Food,Гриль,177,182,positive
+227,30744,Food,пиво,199,203,positive
+228,30744,Food,вина,226,230,positive
+229,30744,Food,пива,257,261,positive
+230,30744,Service,сервиса,311,318,positive
+231,30744,Food,кухни,323,328,positive
+232,30744,Interior,атмосферы,334,343,positive
+233,30744,Interior,музыка,381,387,positive
+234,37819,Whole,ресторан,21,29,positive
+235,37819,Whole,"кафе ""Кон-Коронель",93,111,positive
+236,37819,Whole,месте,214,219,positive
+237,37819,Interior,шоу программа,282,295,positive
+238,37819,Interior,ведущая,298,305,positive
+239,37819,Interior,атмосферу,398,407,positive
+240,37819,Food,кухни,418,423,positive
+241,37819,Service,обслуживания,426,438,positive
+242,37819,Service,официанты,464,473,positive
+243,37819,Food,банкетного меню,533,548,positive
+244,37819,Service,администратору Ирине,580,600,positive
+245,37819,Whole,ресторану,745,754,positive
+246,37819,Service,персоналу,763,772,positive
+247,37819,Whole,выбора места,820,832,positive
+248,37819,Whole,Кон-Коронель,883,895,positive
+249,7824,Whole,ресторане,19,28,neutral
+250,7824,Whole,месте,96,101,neutral
+251,7824,Food,кухней,112,118,neutral
+252,7824,Service,заказан столик,124,138,neutral
+253,7824,Interior,2 этаже,153,160,neutral
+254,7824,Whole,заведении,310,319,neutral
+255,7824,Food,салатов,374,381,neutral
+256,7824,Food,салата цезарь,391,404,neutral
+257,7824,Food,соус,425,429,neutral
+258,7824,Food,курица,441,447,neutral
+259,7824,Food,салат с авокадо,468,483,neutral
+260,7824,Food,горячего,519,527,neutral
+261,7824,Food,манты,532,537,neutral
+262,7824,Food,десерты,646,653,neutral
+263,7824,Food,Пирожные,655,663,neutral
+264,7824,Food,торт из шоколада,688,704,neutral
+265,7824,Whole,ресторана,719,728,neutral
+266,7824,Price,оставили 10 тысяч,758,775,neutral
+267,7824,Food,еда,777,780,neutral
+268,7824,Food,алкогольному коктейлю,804,825,neutral
+269,19503,Whole,заведение,34,43,positive
+270,19503,Service,обслуживание,67,79,positive
+271,19503,Service,администратор Екатерина,134,157,positive
+272,19503,Service,встретила,158,167,positive
+273,19503,Service,посадила,174,182,positive
+274,19503,Interior,столик,200,206,positive
+275,19503,Service,Обслуживала,239,250,positive
+276,19503,Service,девушка-официант,270,286,positive
+277,19503,Food,фондю,298,303,positive
+278,19503,Service,обслуживали,304,315,positive
+279,19503,Food,блюда,383,388,positive
+280,19503,Service,Официант,390,398,positive
+281,19503,Service,обслуживающий персонал,406,428,positive
+282,19503,Whole,Чердак Художника,470,488,positive
+283,19503,Whole,местом,512,518,positive
+284,1434,Whole,ресторан,72,80,positive
+285,1434,Interior,интерьер,140,148,positive
+286,1434,Whole,место,223,228,positive
+287,1434,Service,Обслуживающий персонал,230,252,positive
+288,1434,Service,официанту,276,285,positive
+289,1434,Food,азиатской такой кухней,326,348,positive
+290,1434,Food,кокосовый суп с морепродуктами,474,504,positive
+291,1434,Food,блюда,602,607,positive
+292,1434,Food,"салат с апельсинами, рукколой и лососем",626,665,positive
+293,1434,Food,десерт,672,678,positive
+294,1434,Food,манговый мусс,688,701,positive
+295,1434,Food,лимонный десерт,704,719,positive
+296,1434,Whole,заведение,809,818,positive
+297,2073,Whole,ресторане,30,41,neutral
+298,2073,Whole,заведению,97,106,neutral
+299,2073,Whole,вечер,116,121,neutral
+300,2073,Whole,месте,203,208,neutral
+301,2073,Interior,интерьер,223,231,neutral
+302,2073,Food,кухня,242,247,neutral
+303,2073,Service,обслуживания,314,326,neutral
+304,2073,Service,официантка,377,387,neutral
+305,2073,Food,вино,537,541,neutral
+306,2073,Food,оливки,769,775,neutral
+307,2073,Interior,живая музыка,899,911,negative
+308,2073,Whole,ресторан,1179,1187,neutral
+309,14568,Whole,кафе,8,12,positive
+310,14568,Interior,интерьер,118,126,positive
+311,14568,Interior,занавесочки,153,164,positive
+312,14568,Food,еде,254,257,positive
+313,14568,Food,судака с овощами и рисом,312,336,positive
+314,14568,Food,кофе Борджиа,370,382,positive
+315,14568,Food,восточных салатов,432,449,positive
+316,14568,Food,Американо,529,538,positive
+317,14568,Service,сервис,605,611,positive
+318,14568,Whole,месту,728,733,positive
+319,14568,Whole,местечко,788,796,positive
+320,14568,Price,ценами,819,825,positive
+321,14568,Interior,обстановкой,846,857,positive
+322,13100,Service,заказал столик,69,83,positive
+323,13100,Service,девушка хостесс,186,201,positive
+324,13100,Service,встретила,202,211,positive
+325,13100,Service,проводила к столику,214,233,positive
+326,13100,Service,Обслуживал,242,252,positive
+327,13100,Service,молодой человек,253,268,positive
+328,13100,Food,сациви,359,365,positive
+329,13100,Food,хачапури по-мегрельски,423,445,positive
+330,13100,Food,сырная пицца,456,468,positive
+331,13100,Food,блюда на мангале,473,489,positive
+332,13100,Food,закуски,515,522,positive
+333,13100,Food,салаты,525,531,positive
+334,13100,Food,десерт,564,570,positive
+335,13100,Food,Наполеон,595,603,positive
+336,13100,Food,бараньи яички,683,696,positive
+337,13100,Food,повара,809,815,positive
+338,13100,Service,Официант Антон,824,838,positive
+339,13100,Food,кухню,928,933,positive
+340,13100,Service,обслуживание,953,965,positive
+341,13100,Interior,Интерьер,966,974,positive
+342,13100,Interior,туалет,999,1005,positive
+343,13100,Food,еды,1091,1094,positive
+344,27841,Food,кофе,36,40,neutral
+345,27841,Service,обслуживающим персоналом,71,95,neutral
+346,27841,Food,Кофе,161,165,neutral
+347,27841,Food,тортики,175,182,neutral
+348,27841,Food,пивка,251,256,neutral
+349,27841,Food,пива,264,268,neutral
+350,27841,Whole,кондитерская,317,329,neutral
+351,27841,Food,напиток,352,359,neutral
+352,27841,Food,Тиммерманс,377,387,neutral
+353,27841,Food,Невское,390,397,neutral
+354,27841,Food,закусочки,417,426,neutral
+355,27841,Food,жаренные крылышки,430,447,neutral
+356,27841,Food,кальмары,460,468,neutral
+357,27841,Food,колечками лука,488,502,neutral
+358,27841,Food,соуса,515,520,neutral
+359,27841,Food,соуса,532,537,neutral
+360,27841,Service,девушка-официантка,573,591,neutral
+361,27841,Food,соусе,608,613,neutral
+362,27841,Interior,Интерьер,654,662,neutral
+363,27841,Service,Обслуживание,750,762,neutral
+364,27841,Whole,местечко,839,847,neutral
+365,31004,Interior,Интерьер,271,279,neutral
+366,31004,Food,блюда,303,308,neutral
+367,31004,Food,курицы,343,349,neutral
+368,31004,Food,конину,375,381,neutral
+369,31004,Food,Горячее,384,391,neutral
+370,31004,Food,конину,471,477,neutral
+371,31004,Food,блюда,526,531,neutral
+372,31004,Food,соли,603,607,neutral
+373,31004,Food,специй,617,623,neutral
+374,31004,Food,пресная,636,643,neutral
+375,31004,Food,еда,644,647,neutral
+376,31004,Service,официанты,688,697,neutral
+377,31004,Service,Сервировано,758,769,neutral
+378,31004,Food,Доесть,784,790,neutral
+379,31004,Food,салат из зелени и овощей,851,875,negative
+380,31004,Price,Цены,908,912,neutral
+381,31004,Food,кухне,943,948,neutral
+382,35635,Whole,ресторан 'Хутор Водограй',99,124,negative
+383,35635,Food,кухня,150,155,neutral
+384,35635,Service,обслуживание,159,171,neutral
+385,35635,Interior,атмосфера,173,182,neutral
+386,35635,Interior,настроение,185,195,neutral
+387,35635,Interior,украинский колорит,229,247,neutral
+388,35635,Service,руководителей,631,644,neutral
+389,35635,Service,официант,773,781,neutral
+390,35635,Food,поели,901,906,neutral
+391,35635,Food,пирожков,959,967,neutral
+392,35635,Whole,рестораном,1206,1216,neutral
+393,35635,Whole,ресторан,1284,1292,neutral
+394,13186,Whole,ресторане Волна,30,45,negative
+395,13186,Service,девушка,72,79,neutral
+396,13186,Service,предложила столики,80,98,neutral
+397,13186,Food,вина,125,129,neutral
+398,13186,Food,вином,168,173,neutral
+399,13186,Service,официанты,218,227,negative
+400,13186,Food,вино,248,252,neutral
+401,13186,Food,бытылочку вина,290,304,neutral
+402,13186,Food,салат из рукколы с печеным картофелем,330,367,negative
+403,13186,Food,гребешки со спаржей,370,389,negative
+404,13186,Service,комплимент от шеф-повара,430,454,negative
+405,13186,Food,салат,529,534,neutral
+406,13186,Service,ждала еще минут,567,582,neutral
+407,13186,Interior,атмосфера,629,638,neutral
+408,797,Whole,ресторане,7,16,negative
+409,797,Food,выпить,89,95,negative
+410,797,Food,чаю,96,99,negative
+411,797,Food,вина,102,106,negative
+412,797,Service,официантка,143,153,negative
+413,797,Whole,ресторане,287,296,negative
+414,797,Service,официантка,313,323,negative
+415,797,Service,поработают,550,560,negative
+416,797,Service,Чаевые,645,651,negative
+417,22386,Price,Ценник,86,92,neutral
+418,22386,Food,соленья,163,170,neutral
+419,22386,Food,кармашки с грибами и рыбой,172,198,neutral
+420,22386,Food,жареный камамбер,200,216,neutral
+421,22386,Food,шашлык из свинины,218,235,neutral
+422,22386,Food,свинину с моцареллой и грибами,237,267,neutral
+423,22386,Food,угря,269,273,positive
+424,22386,Service,официантки,348,358,neutral
+425,22386,Service,официантка,589,599,neutral
+426,27040,Service,обслуживание,124,136,neutral
+427,27040,Service,официант,159,167,neutral
+428,27040,Service,кальян,259,265,neutral
+429,27040,Food,закуски-крылья,284,298,neutral
+430,27040,Food,сырные шарики,300,313,neutral
+431,27040,Food,фрукты,315,321,neutral
+432,32442,Whole,ресторане «Кирочный Двор»,19,44,positive
+433,32442,Whole,сотрудникам данного заведения,88,117,positive
+434,32442,Interior,зале,159,163,positive
+435,32442,Service,места для танцев,180,196,positive
+436,32442,Service,Администраторы,248,262,positive
+437,32442,Interior,оформлением зала,277,293,positive
+438,32442,Service,ведущих,304,311,positive
+439,32442,Food,Меню,347,351,positive
+440,32442,Food,алкоголь,369,377,positive
+441,32442,Food,выбор блюд,438,448,positive
+442,33252,Whole,Паберти,35,42,neutral
+443,33252,Service,Заказывал,44,53,neutral
+444,33252,Food,пивоварни,131,140,neutral
+445,33252,Food,Пиво,212,216,neutral
+446,33252,Food,свежесваренное пиво,306,325,neutral
+447,33252,Food,кухня,426,431,neutral
+448,33252,Food,закуски,483,490,neutral
+449,33252,Food,горячее,494,501,neutral
+450,33252,Service,стол обслуживали,576,592,neutral
+451,33252,Service,официантов,609,619,neutral
+452,33252,Service,блюда и напитки выносились,633,659,neutral
+453,33252,Service,обслуживание,791,803,neutral
+454,33252,Interior,Развлекательная программа ресторана,833,868,neutral
+455,33252,Interior,потанцевать,918,929,neutral
+456,33252,Service,персоналу Паберти,1069,1086,neutral
+457,36085,Whole,заведении,88,97,positive
+458,36085,Whole,кафе,187,191,positive
+459,36085,Interior,интерьер,209,217,positive
+460,36085,Food,блюда,237,242,positive
+461,36085,Service,персонал,310,318,positive
+462,36085,Whole,место,455,460,positive
+463,36085,Whole,Mon Petit Cafe,470,484,positive
+464,11770,Whole,пабе,16,20,positive
+465,11770,Food,пиво,49,53,positive
+466,11770,Food,сырные палочки,55,69,positive
+467,11770,Service,обслуживание,79,91,positive
+468,11770,Whole,ресторане,117,126,positive
+469,11770,Whole,ресторан,173,181,positive
+470,11770,Food,блюда,267,272,positive
+471,11770,Food,ягод,310,314,positive
+472,11770,Food,фрукта,319,325,positive
+473,11770,Food,специй,342,348,positive
+474,11770,Food,мясе,351,355,positive
+475,11770,Food,доесть,405,411,positive
+476,11770,Food,мясо,448,452,positive
+477,11770,Food,стейк,462,467,positive
+478,11770,Food,стейка,547,553,positive
+479,11770,Food,приготовления,599,612,positive
+480,11770,Food,мясо полусырое,660,674,positive
+481,11770,Food,повара,800,806,positive
+482,11770,Food,стейк,831,836,positive
+483,11770,Food,блюдо тартар с сырой рыбой и сырым яйцом,896,936,positive
+484,11770,Service,Официанты,938,947,positive
+485,11770,Service,обстановкая,976,987,positive
+486,11770,Whole,ресторан,1007,1015,positive
+487,9289,Whole,ресторане,20,29,neutral
+488,9289,Service,администратор,116,129,neutral
+489,9289,Interior,Обстановка,194,204,neutral
+490,9289,Interior,радио,250,255,neutral
+491,9289,Interior,музыка,337,343,neutral
+492,9289,Food,Разнообразие,382,394,neutral
+493,9289,Food,блюд из мяса,395,407,neutral
+494,9289,Price,цены,428,432,neutral
+495,9289,Food,утку по-пекински,460,476,neutral
+496,9289,Food,порции,533,539,neutral
+497,9289,Food,суп,566,569,neutral
+498,9289,Food,Пиво,619,623,neutral
+499,9289,Service,обслуживание,645,657,neutral
+500,9289,Service,девушки,670,677,neutral
+501,9289,Service,администратор,690,703,neutral
+502,9289,Service,расскажут,720,729,neutral
+503,9289,Food,соус,762,766,neutral
+504,9289,Service,ответили,777,785,neutral
+505,9289,Interior,Радио,841,846,neutral
+506,9289,Interior,Интерьер,881,889,neutral
+507,9289,Interior,фантанчик,944,953,neutral
+508,9289,Interior,зала,965,969,neutral
+509,9289,Service,администратор,1038,1051,neutral
+510,8996,Whole,пабе Метрополь,18,32,positive
+511,8996,Service,швейцар,83,90,positive
+512,8996,Interior,гардеробная,146,157,positive
+513,8996,Interior,лестница,168,176,positive
+514,8996,Interior,Интерьер,178,186,positive
+515,8996,Whole,заведение,230,239,positive
+516,8996,Interior,столы,285,290,positive
+517,8996,Interior,стулья,300,306,positive
+518,8996,Interior,телевизоры,313,323,positive
+519,8996,Service,официант,388,396,positive
+520,8996,Service,запоминал,431,440,positive
+521,8996,Price,цены,484,488,positive
+522,8996,Whole,месте,670,675,positive
+523,8996,Food,Порции,696,702,positive
+524,8996,Food,пиво,719,723,positive
+525,8996,Whole,впечатления от паба,808,827,positive
+526,8996,Service,персоналу,848,857,positive
+527,8996,Interior,красоту,955,962,positive
+528,8996,Interior,интерьеры,967,976,positive
+529,1427,Whole,заведение,27,36,positive
+530,1427,Food,ужинали,113,120,neutral
+531,1427,Service,обслуживанием,169,182,neutral
+532,1427,Whole,посещение,205,214,neutral
+533,1427,Whole,заведения,222,231,positive
+534,1427,Interior,залы,333,337,neutral
+535,1427,Interior,веранде,350,357,neutral
+536,1427,Service,встретил,394,402,neutral
+537,1427,Service,молодой человек,407,422,neutral
+538,1427,Service,предложил,423,432,positive
+539,1427,Service,Проводила,475,484,neutral
+540,1427,Service,девушка,504,511,neutral
+541,1427,Service,администратор,566,579,neutral
+542,1427,Service,подала меню,589,600,neutral
+543,1427,Service,налили,630,636,neutral
+544,1427,Price,бесплатной,647,657,neutral
+545,1427,Food,воды,658,662,positive
+546,1427,Service,Обслуживание,784,796,positive
+547,1427,Service,администратор,913,926,positive
+548,1427,Service,помогает,927,935,positive
+549,1427,Service,официантам,1022,1032,positive
+550,1427,Service,Принес нам заказ,1035,1051,positive
+551,1427,Service,молодой человек,1052,1067,positive
+552,1427,Interior,живая музыка,1109,1121,positive
+553,1427,Whole,вечер,1139,1144,positive
+554,1427,Service,девушке,1177,1184,positive
+555,1427,Interior,атмосферу,1197,1206,positive
+556,1427,Service,молодому человеку,1209,1226,positive
+557,1427,Service,сотрудников,1234,1245,positive
+558,20862,Whole,Аппетите,18,26,neutral
+559,20862,Service,встречей,58,66,neutral
+560,20862,Service,сервисом,70,78,neutral
+561,20862,Food,кухней,82,88,neutral
+562,20862,Price,цен,124,127,neutral
+563,20862,Whole,ресторана,191,200,neutral
+564,20862,Service,встретили,291,300,neutral
+565,20862,Service,проводили,302,311,neutral
+566,20862,Service,посадили,313,321,neutral
+567,20862,Service,принесли меню,323,336,neutral
+568,20862,Service,официантка,343,353,neutral
+569,20862,Service,подошла,439,446,neutral
+570,20862,Food,пасту,457,462,neutral
+571,20862,Food,свежевыжатый сок,464,480,neutral
+572,20862,Food,напитки,482,489,neutral
+573,20862,Food,напитки,515,522,neutral
+574,20862,Food,пасты,569,574,neutral
+575,20862,Service,поданы,599,605,neutral
+576,20862,Food,порцию,638,644,neutral
+577,20862,Food,Цезарь-салат,708,720,neutral
+578,20862,Food,американо,723,732,neutral
+579,20862,Service,ждали,736,741,neutral
+580,20862,Service,чаевых,781,787,neutral
+581,20862,Service,человек,836,843,neutral
+582,11532,Food,пообедать,43,52,positive
+583,11532,Whole,ресторане,55,64,positive
+584,11532,Whole,Море,95,99,positive
+585,11532,Interior,Интерьер,165,173,positive
+586,11532,Interior,аквариум,237,245,positive
+587,11532,Service,официанты,297,306,positive
+588,11532,Interior,Окна в пол,320,330,positive
+589,11532,Interior,вид на залив,333,345,positive
+590,11532,Price,Цены,365,369,positive
+591,11532,Whole,заведению,385,394,positive
+592,11532,Food,Кофе,396,400,positive
+593,11532,Food,чай с мятой,402,413,positive
+594,11532,Food,цезарь с тунцом,431,446,positive
+595,11532,Food,тунец,462,467,positive
+596,11532,Food,суп-пюре картофельный,470,491,positive
+597,11532,Food,ягодный сорбет,547,561,positive
+598,11532,Food,пасту с морепродуктами,565,587,positive
+599,11532,Food,десерт,620,626,positive
+600,11532,Food,мороженое,627,636,positive
+601,11532,Food,мороженого,682,692,positive
+602,11532,Service,Обслуживают,708,719,positive
+603,11532,Price,счет,764,768,positive
+604,11532,Price,счет,824,828,positive
+605,11532,Service,официанты,890,899,positive
+606,11532,Food,Хлебная корзинка,925,941,positive
+607,25960,Whole,местечку,75,83,neutral
+608,25960,Service,Обслуживание,144,156,negative
+609,25960,Food,качество блюд,173,186,negative
+610,25960,Service,Сервис,291,297,negative
+611,25960,Food,меню,416,420,neutral
+612,25960,Food,качество еды,455,467,negative
+613,25960,Price,цены,501,505,negative
+614,25960,Whole,место,562,567,negative
+615,9721,Whole,ресторане,29,38,positive
+616,9721,Service,ресторан,105,113,positive
+617,9721,Interior,интерьер,146,154,positive
+618,9721,Whole,ресторанах,175,185,positive
+619,9721,Whole,ресторан,261,269,positive
+620,9721,Service,персонал,295,303,positive
+621,9721,Service,Официанты,305,314,positive
+622,9721,Food,блюд,356,360,positive
+623,9721,Food,еде,383,386,positive
+624,9721,Food,попробовать,401,412,positive
+625,9721,Food,меню,423,427,positive
+626,9721,Food,крем-суп из лосося,487,505,positive
+627,9721,Food,равиолли с грибами,508,526,positive
+628,9721,Whole,ресторане Roll & Roll,564,585,positive
+629,9721,Food,блюда,626,631,positive
+630,9721,Whole,ресторане,690,699,positive
+631,9721,Food,выбор алкоголя,720,734,positive
+632,9721,Price,ценам,747,752,positive
+633,9721,Food,разливного пива,767,782,positive
+634,9721,Food,винная карта,794,806,positive
+635,9721,Food,попробовать,822,833,positive
+636,9721,Food,коктейли,848,856,positive
+637,9721,Food,приготовленные,858,872,positive
+638,9721,Whole,Ресторан Roll & Roll,883,903,positive
+639,16714,Service,заказывали столик,27,44,positive
+640,16714,Food,кухню,118,123,positive
+641,16714,Food,шашлык по азейрбаджански (из баранины),136,174,neutral
+642,16714,Food,хачипури Имеритенское,176,197,positive
+643,16714,Food,салат Байрам,199,211,positive
+644,16714,Food,овощи на гриле,214,228,positive
+645,16714,Food,Хачипури,230,238,positive
+646,16714,Food,сыра,282,286,positive
+647,16714,Food,Салат,315,320,positive
+648,16714,Food,баранина,339,347,positive
+649,16714,Food,овощи,350,355,positive
+650,16714,Service,Сервис,373,379,positive
+651,16714,Service,Официант,412,420,positive
+652,16714,Interior,Интерьер,472,480,positive
+653,16714,Food,обеда,559,564,positive
+654,16714,Service,администратору,658,672,positive
+655,16714,Service,девушки,725,732,positive
+656,16714,Service,сервис,782,788,positive
+657,26152,Whole,ресторан,89,97,positive
+658,26152,Whole,Саперави,250,258,positive
+659,26152,Interior,Интерьер,260,268,positive
+660,26152,Whole,ресторан,282,290,positive
+661,26152,Interior,атмосферой,310,320,positive
+662,26152,Whole,впечатление,357,368,positive
+663,26152,Interior,стены,401,406,positive
+664,26152,Interior,мебель,418,424,positive
+665,26152,Interior,интерьер,438,446,positive
+666,26152,Service,Сервис,488,494,positive
+667,26152,Service,встретили,496,505,positive
+668,26152,Service,проводили,542,551,positive
+669,26152,Service,Обслуживали,576,587,positive
+670,26152,Service,рекомендуя,610,620,positive
+671,26152,Food,блюдо,633,638,positive
+672,26152,Service,Персонал,699,707,positive
+673,26152,Food,Кухня,760,765,positive
+674,26152,Food,хачапури по-аджарски,767,787,positive
+675,26152,Food,сыра,796,800,positive
+676,26152,Food,тесто,809,814,positive
+677,26152,Food,Салат с лососем,827,842,positive
+678,26152,Food,большая порция,845,859,positive
+679,26152,Food,порция,853,859,positive
+680,26152,Food,заправка,871,879,positive
+681,26152,Food,Салат от шеф-повара с курицей,901,930,positive
+682,26152,Food,Тирамису,972,980,positive
+683,26152,Food,крем,1016,1020,positive
+684,26152,Food,пропитка,1030,1038,positive
+685,26152,Price,соотношении цены и качества,1042,1069,positive
+686,26152,Whole,рестораны,1129,1138,positive
+687,26152,Food,кухней,1154,1160,positive
+688,26152,Service,обслуживанием,1171,1184,positive
+689,785,Whole,Ресторан,69,77,neutral
+690,785,Interior,интерьер,90,98,neutral
+691,785,Interior,места,115,120,neutral
+692,785,Interior,украсили,122,130,neutral
+693,785,Interior,красиво,131,138,neutral
+694,785,Food,меню,153,157,neutral
+695,785,Food,Меню,176,180,neutral
+696,785,Food,блюд,339,343,neutral
+697,785,Food,торта,358,363,neutral
+698,785,Service,помогла,392,399,neutral
+699,785,Service,администратор,416,429,neutral
+700,785,Service,помогла,484,491,neutral
+701,19817,Food,поужинать,30,39,positive
+702,19817,Interior,атмосфера,87,96,positive
+703,19817,Interior,музыка,112,118,positive
+704,19817,Interior,столик,159,165,positive
+705,19817,Whole,заведении,252,261,positive
+706,19817,Food,Кухня,306,311,positive
+707,19817,Food,японскую кухню,344,358,positive
+708,19817,Price,ценам,414,419,positive
+709,19817,Food,Рыба,421,425,positive
+710,19817,Food,ассортимента роллов,481,500,positive
+711,19817,Food,Супы,535,539,positive
+712,19817,Food,свежевыжатые соки,577,594,positive
+713,19817,Food,европейское меню,623,639,positive
+714,19817,Food,Драники с беконом,657,674,positive
+715,19817,Food,порция,691,697,positive
+716,19817,Service,обслуживанием,727,740,positive
+717,19817,Service,официантку,783,793,positive
+718,19817,Service,ждать,978,983,positive
+719,19817,Price,скидочную карту,1009,1024,positive
+720,19817,Price,Скидки,1026,1032,positive
+721,19817,Service,обслуживанием,1113,1126,positive
+722,19817,Whole,место,1183,1188,positive
+723,19817,Food,суши,1221,1225,positive
+724,19817,Food,роллы,1228,1233,positive
+725,19817,Whole,местах,1274,1280,positive
+726,34402,Whole,место,21,26,neutral
+727,34402,Whole,ресторанчик,191,202,neutral
+728,34402,Food,французской кухни,211,228,neutral
+729,34402,Interior,атмосфера,367,376,neutral
+730,34402,Whole,места,383,388,positive
+731,34402,Food,кухня,399,404,positive
+732,34402,Food,меню,432,436,positive
+733,34402,Interior,комната,438,445,neutral
+734,34402,Interior,программу,485,494,positive
+735,34402,Service,Аниматоры,496,505,positive
+736,34402,Food,выбор вина,627,637,neutral
+737,34402,Price,Ценник,687,693,neutral
+738,3552,Food,пицца,92,97,positive
+739,3552,Food,салаты на закуску,100,117,positive
+740,3552,Food,выбор горячих блюд,127,145,positive
+741,3552,Food,качеством приготовления,185,208,positive
+742,3552,Food,блюдами,226,233,positive
+743,3552,Food,торт тирамису на десерт,252,275,positive
+744,3552,Interior,музыка,415,421,positive
+745,3552,Whole,официанты,442,451,positive
+746,3552,Service,администраторы,454,468,positive
+747,3552,Whole,праздник,494,502,positive
+748,3552,Interior,обстановку,520,530,positive
+749,28112,Whole,Ресторан,0,8,positive
+750,28112,Food,кухня,31,36,positive
+751,28112,Service,обслуживание,43,55,positive
+752,28112,Interior,интерьер,69,77,positive
+753,28112,Whole,заведений,236,245,positive
+754,28112,Food,кухня,286,291,positive
+755,28112,Food,Порции,345,351,positive
+756,28112,Food,Качество мяса,375,388,positive
+757,28112,Food,еде,444,447,positive
+758,28112,Interior,Интерьер,448,456,positive
+759,28112,Interior,большие окна,560,572,positive
+760,28112,Interior,проемы окон,636,647,positive
+761,28112,Service,Обслуживанию,671,683,positive
+762,28112,Service,официанты,734,743,positive
+763,28112,Service,скатерть,843,851,positive
+764,28112,Service,поесть,942,948,positive
+765,28112,Interior,музыка,969,975,positive
+766,34710,Service,обслуживание,30,42,negative
+767,34710,Service,обслужили,86,95,negative
+768,34710,Service,несли,129,134,negative
+769,34710,Food,напитки,135,142,negative
+770,34710,Service,салат,162,167,negative
+771,34710,Price,счет,174,178,negative
+772,34710,Service,отношение официантов,234,254,negative
+773,34710,Service,официантка,285,295,negative
+774,34710,Service,дали,362,366,negative
+775,34710,Service,меню,387,391,negative
+776,34710,Service,официантка,442,452,negative
+777,34710,Service,приняла заказ,539,552,negative
+778,34710,Food,супа,573,577,negative
+779,34710,Service,принесла,578,586,negative
+780,34710,Food,Напитки,618,625,negative
+781,34710,Service,принесла,626,634,negative
+782,34710,Food,десерта,648,655,negative
+783,34710,Food,напитки,680,687,negative
+784,34710,Food,кухня,718,723,negative
+785,34710,Food,кеталонский крем,734,750,negative
+786,34710,Service,официантов,776,786,negative
+787,34710,Whole,впечатление,809,820,negative
+788,5155,Whole,заведения,14,23,positive
+789,5155,Food,кухня,47,52,positive
+790,5155,Service,обслуживание,66,78,positive
+791,5155,Food,баклажаны,88,97,positive
+792,5155,Whole,заведении,111,120,positive
+793,5155,Food,блюда,147,152,positive
+794,5155,Food,запеченных баклажан,204,223,positive
+795,5155,Food,сырной корочкой и базиликом,251,278,positive
+796,5155,Food,суп из морепрдуктов,294,313,positive
+797,5155,Whole,посидели,377,385,positive
+798,5155,Interior,залов,430,435,positive
+799,5155,Food,поели,463,468,positive
+800,5155,Food,выпили,471,477,positive
+801,5155,Food,глинтвейн,494,503,positive
+802,33798,Whole,ресторана,23,32,positive
+803,33798,Food,поесть,114,120,positive
+804,33798,Whole,провести вечер,131,145,positive
+805,33798,Food,меню,167,171,positive
+806,33798,Food,японская и итальянская кухни,229,257,positive
+807,33798,Food,Паста,278,283,positive
+808,33798,Food,суши,286,290,positive
+809,33798,Food,блюда на гриле,325,339,positive
+810,33798,Food,еде,352,355,positive
+811,33798,Interior,интерьер,378,386,positive
+812,33798,Service,Официанты,409,418,positive
+813,33798,Whole,ресторан,479,487,positive
+814,31071,Whole,заведение,11,20,neutral
+815,31071,Interior,зал,83,86,neutral
+816,31071,Interior,столы,247,252,neutral
+817,31071,Service,обслуживание,339,351,neutral
+818,31071,Service,официанты,420,429,neutral
+819,31071,Service,официантка,531,541,neutral
+820,31071,Food,блюда,560,565,neutral
+821,31071,Price,счет,588,592,neutral
+822,31071,Service,девушка из гардероба,630,650,neutral
+823,31071,Interior,Интерьер,726,734,neutral
+824,31071,Food,Кухня,778,783,neutral
+825,31071,Food,равиоли с трюфелями и рикоттой,825,855,neutral
+826,31071,Food,крем-суп из тыквы с пармезаном,867,897,neutral
+827,31071,Food,блюда,952,957,neutral
+828,31071,Food,"Вино красное ""домашнее""",970,993,neutral
+829,31071,Price,Чек,1014,1017,neutral
+830,3231,Whole,ресторане,103,112,positive
+831,3231,Interior,украшенный,145,155,positive
+832,3231,Interior,зал,156,159,positive
+833,3231,Interior,интерьер,168,176,positive
+834,3231,Service,персонал,195,203,positive
+835,3231,Service,Обслуживание,207,219,positive
+836,3231,Service,официанты,281,290,positive
+837,3231,Service,официанта,419,428,positive
+838,3231,Service,обслуживала,473,484,positive
+839,35325,Whole,местечко,22,30,positive
+840,35325,Price,ценник,40,46,positive
+841,35325,Interior,Интерьер,57,65,positive
+842,35325,Service,сервис,68,74,positive
+843,35325,Food,Блюда,138,143,positive
+844,35325,Interior,кол-во людей,253,265,positive
+845,35325,Service,официанты,318,327,positive
+846,35325,Service,повара,330,336,positive
+847,35325,Service,обслуживания,392,404,positive
+848,35325,Whole,место,441,446,positive
+849,15423,Whole,заведение,7,16,positive
+850,15423,Service,персонала,129,138,positive
+851,15423,Interior,песни,248,253,positive
+852,15423,Food,кухни,309,314,positive
+853,15423,Food,готовят,319,326,positive
+854,15423,Food,стейки из говядины и лосося,383,410,positive
+855,15423,Service,обслуживание,543,555,positive
+856,15423,Service,обслуживание,645,657,positive
+857,15423,Service,девушка,707,714,positive
+858,5974,Interior,интерьер,9,17,negative
+859,5974,Interior,атмосфера,28,37,negative
+860,5974,Interior,живая музыка,40,52,negative
+861,5974,Food,оформление блюд,77,92,negative
+862,5974,Service,ждали,233,238,negative
+863,5974,Service,обслуживание,298,310,negative
+864,5974,Service,поваров,321,328,negative
+865,5974,Service,официантов,333,343,negative
+866,5974,Service,Ждал,346,350,negative
+867,5974,Service,официантка,497,507,negative
+868,5974,Price,счете,523,528,negative
+869,5974,Service,заказали,567,575,negative
+870,5974,Service,чеке,634,638,negative
+871,5974,Service,Счет,694,698,negative
+872,5974,Service,официантка,803,813,negative
+873,5974,Whole,Общее мнение,847,859,negative
+874,5974,Whole,места,880,885,negative
+875,33524,Whole,место,4,9,positive
+876,33524,Whole,место,66,71,positive
+877,33524,Food,мясе,116,120,positive
+878,33524,Whole,Абажур,144,150,positive
+879,33524,Food,Мясо,152,156,positive
+880,33524,Whole,заведении,215,224,positive
+881,33524,Food,покушать,237,245,positive
+882,33524,Food,мяса,246,250,positive
+883,33524,Food,кухней,271,277,positive
+884,33524,Whole,общение,310,317,positive
+885,33524,Service,официанта,318,327,positive
+886,33524,Food,Официанты,366,375,positive
+887,33524,Service,расскажут,399,408,positive
+888,33524,Food,блюдах,416,422,positive
+889,33524,Service,дадут совет,424,435,positive
+890,33524,Food,состав блюда,473,485,positive
+891,33524,Service,люди,526,530,positive
+892,33524,Service,отношения,581,590,positive
+893,33524,Service,официантов,591,601,positive
+894,33524,Whole,зайти,616,621,positive
+895,33524,Food,Кухней,655,661,positive
+896,33524,Whole,место,741,746,positive
+897,33524,Food,утку,782,786,positive
+898,33524,Food,попробовать,799,810,positive
+899,33524,Service,повара,857,863,positive
+900,33524,Food,кофе,911,915,positive
+901,33524,Interior,Интерьер,917,925,positive
+902,33524,Interior,освещение,936,945,positive
+903,33524,Interior,места,954,959,positive
+904,33524,Interior,музыка,969,975,negative
+905,33524,Whole,Абажур,1025,1031,positive
+906,9837,Whole,ресторан,18,26,positive
+907,9837,Food,кухня,81,86,positive
+908,9837,Food,порции,95,101,positive
+909,9837,Food,салат,126,131,positive
+910,9837,Food,основное блюдо,148,162,positive
+911,9837,Food,порций,200,206,positive
+912,9837,Food,вино,236,240,positive
+913,9837,Interior,Интерьер,242,250,positive
+914,9837,Interior,первый зал,292,302,positive
+915,9837,Interior,интерьеру,382,391,positive
+916,9837,Interior,таверну,402,409,positive
+917,9837,Service,Обслуживание,411,423,positive
+918,9837,Service,официантки,460,470,positive
+919,9837,Interior,атмосфера,514,523,positive
+920,9216,Whole,ресторан,14,22,negative
+921,9216,Interior,зал,102,105,negative
+922,9216,Interior,кондеями,108,116,negative
+923,9216,Interior,Интерьер,117,125,negative
+924,9216,Service,обслуживание,137,149,negative
+925,9216,Whole,ресторан,171,179,negative
+926,9216,Food,хлеб,425,429,negative
+927,9216,Food,напитки,431,438,negative
+928,9216,Food,холодные нарезки,441,457,negative
+929,9216,Service,офицанта,531,539,negative
+930,9216,Service,готовят,560,567,negative
+931,9216,Service,директору,625,634,negative
+932,9216,Food,порции,783,789,negative
+933,9216,Food,еды,853,856,negative
+934,9216,Service,до заказывать,877,890,negative
+935,9216,Service,Работал,912,919,negative
+936,9216,Service,офицант,925,932,negative
+937,9216,Service,админестратор,935,948,negative
+938,15567,Whole,ресторане,136,145,negative
+939,15567,Food,пасту,404,409,negative
+940,15567,Food,суши,412,416,negative
+941,15567,Food,Паста,418,423,negative
+942,15567,Food,макароны,455,463,negative
+943,15567,Food,соусом,477,483,negative
+944,15567,Food,суши,487,491,negative
+945,15567,Food,суши,495,499,negative
+946,15567,Food,готовились,517,527,negative
+947,15567,Service,Официантка,609,619,negative
+948,15567,Interior,горячие полотенца,748,765,negative
+949,15567,Interior,интерьер,907,915,negative
+950,15567,Food,кухня,917,922,negative
+951,15567,Service,организация работы,927,945,negative
+952,15567,Service,повар,1040,1045,negative
+953,15567,Service,обслужить,1063,1072,negative
+954,15567,Service,девушка официантка,1095,1113,negative
+955,15567,Service,срок ожидания,1172,1185,negative
+956,15567,Whole,заведение,1220,1229,negative
+957,7011,Whole,место,117,122,neutral
+958,7011,Interior,интерьер,143,151,neutral
+959,7011,Interior,зал,222,225,neutral
+960,7011,Interior,окна,235,239,neutral
+961,7011,Interior,двор,267,271,neutral
+962,7011,Service,отношение к клиенту,302,321,neutral
+963,7011,Food,кухня,377,382,neutral
+964,7011,Food,Меню,384,388,neutral
+965,7011,Food,теплый салат из говядины,494,518,neutral
+966,7011,Food,"баклажаны, запеченные с сыром",520,549,neutral
+967,7011,Food,"мясная, сырная, рыбная тарелки",551,581,neutral
+968,7011,Food,мясо и рыба гриль,583,600,neutral
+969,7011,Food,рататуй,602,609,neutral
+970,7011,Food,Цезарь,667,673,neutral
+971,7011,Food,десерт,692,698,neutral
+972,7011,Food,блюда,739,744,neutral
+973,7011,Food,оформленные,777,788,neutral
+974,7011,Whole,ресторанах,875,885,neutral
+975,7011,Whole,Трефо,994,1001,neutral
+976,7011,Service,обслуживание,1044,1056,neutral
+977,7011,Interior,оформление зала,1060,1075,neutral
+978,7011,Food,еда,1079,1082,neutral
+979,7011,Whole,ресторану,1149,1158,neutral
+980,7011,Whole,провести время,1221,1235,neutral
+981,2606,Whole,заведения,23,32,negative
+982,2606,Whole,Местечко,87,95,negative
+983,2606,Interior,интерьер,104,112,negative
+984,2606,Food,кухня,151,156,negative
+985,2606,Service,официантка,201,211,negative
+986,2606,Service,принесла меню,212,225,negative
+987,2606,Service,взять заказ,261,272,negative
+988,2606,Service,принесла,288,296,negative
+989,2606,Food,пиво,297,301,negative
+990,2606,Food,закуски,315,322,negative
+991,2606,Service,официантка,364,374,negative
+992,2606,Service,ждать,462,467,negative
+993,2606,Service,посчитали,477,486,negative
+994,2606,Service,счет,502,506,negative
+995,2606,Service,официантка,559,569,negative
+996,2606,Service,разобраться,597,608,negative
+997,2606,Service,поступила,610,619,negative
+998,2606,Whole,заведение,788,797,negative
+999,37391,Whole,тратторию Чили Пицца,98,118,positive
+1000,37391,Price,скидки,177,183,positive
+1001,37391,Food,бутылку вина,186,198,positive
+1002,37391,Service,Работа,226,232,positive
+1003,37391,Service,официантов,233,243,positive
+1004,37391,Service,обслуживания,347,359,positive
+1005,37391,Food,продуктов,418,427,positive
+1006,37391,Food,десерт семифреддо,465,482,positive
+1007,37391,Whole,провели время,524,537,positive
+1008,37391,Interior,атмосфера,602,611,positive
+1009,37391,Whole,ресторан,647,655,positive
+1010,14539,Food,перекусить,53,63,neutral
+1011,14539,Food,шашлыки из свинины,74,92,neutral
+1012,14539,Food,овощи на гриле,94,108,neutral
+1013,14539,Food,"картофель ""Айдахо""",110,128,neutral
+1014,14539,Food,домашнему морсу,132,147,neutral
+1015,14539,Service,белого сухого вина,173,191,neutral
+1016,14539,Food,шашлык,233,239,neutral
+1017,14539,Food,Овощи на гриле,303,317,neutral
+1018,14539,Food,Айдахо,320,328,neutral
+1019,14539,Food,кухня,361,366,neutral
+1020,14539,Interior,Интерьер,377,385,neutral
+1021,14539,Interior,стены,459,464,neutral
+1022,14539,Service,Обслуживание,545,557,neutral
+1023,14539,Service,официантка,603,613,neutral
+1024,14539,Service,принесли,655,663,neutral
+1025,14539,Service,официантке,759,769,neutral
+1026,14539,Service,смутилась,780,789,neutral
+1027,14539,Price,счете,831,836,neutral
+1028,14539,Service,Обслуживали,926,937,neutral
+1029,14539,Service,девушка,942,949,neutral
+1030,14539,Service,молодой человек,952,967,neutral
+1031,14539,Service,Ждать заказа,998,1010,neutral
+1032,14539,Service,Убирали,1030,1037,neutral
+1033,14539,Service,Счет,1101,1105,neutral
+1034,14539,Whole,заведение,1158,1167,neutral
+1035,38299,Whole,заведение,74,83,positive
+1036,38299,Service,заведение,167,176,positive
+1037,38299,Interior,обстановка,211,221,positive
+1038,38299,Service,обслуживание,236,248,positive
+1039,38299,Interior,диванчики,258,267,positive
+1040,38299,Interior,зала,273,277,positive
+1041,38299,Interior,Интерьер,341,349,positive
+1042,38299,Interior,детская,435,442,positive
+1043,38299,Interior,гостиная,457,465,positive
+1044,38299,Service,Официанта,519,528,positive
+1045,38299,Service,ждать,547,552,positive
+1046,38299,Service,подошли,561,568,positive
+1047,38299,Service,приняли заказ,571,584,positive
+1048,38299,Food,салат с треской,633,648,positive
+1049,38299,Service,посоветовал,650,661,positive
+1050,38299,Service,официант,662,670,positive
+1051,38299,Food,дораду в азиатском стиле,674,698,positive
+1052,38299,Food,тайский салат с говядиной,741,766,positive
+1053,38299,Food,стейк рибай,769,780,positive
+1054,38299,Food,коктейли,812,820,positive
+1055,38299,Food,салатики,871,879,positive
+1056,38299,Food,порции,899,905,positive
+1057,38299,Food,заправкой,919,928,positive
+1058,38299,Food,дорада на тушеных овощах,930,954,positive
+1059,38299,Food,стейк,958,963,positive
+1060,38299,Food,кусок мяса,981,991,positive
+1061,38299,Food,прожаркой,1005,1014,positive
+1062,38299,Food,сыт,1046,1049,positive
+1063,12131,Whole,Даче,7,11,positive
+1064,12131,Interior,Интерьер,61,69,positive
+1065,12131,Interior,интерьер,71,79,positive
+1066,12131,Interior,интерьер,91,99,positive
+1067,12131,Interior,цветовое решение,109,125,positive
+1068,12131,Whole,Дача,224,228,positive
+1069,12131,Whole,место,278,283,positive
+1070,12131,Food,чаем с пирожными,331,347,positive
+1071,12131,Interior,обстановки,449,459,positive
+1072,12131,Service,сервису,560,567,positive
+1073,12131,Whole,общего впечатления,639,657,positive
+1074,12131,Interior,приборы,709,716,positive
+1075,12131,Interior,посуда,719,725,positive
+1076,12131,Interior,столы,736,741,positive
+1077,12131,Interior,подоконники,750,761,positive
+1078,12131,Food,Кухня,780,785,positive
+1079,12131,Food,порции,832,838,positive
+1080,12131,Food,десертам,884,892,positive
+1081,12131,Interior,гардероб,958,966,positive
+1082,12131,Interior,зонирование,976,987,positive
+1083,7193,Whole,место,19,24,positive
+1084,7193,Food,перекусить,78,88,positive
+1085,7193,Service,Официанты,169,178,positive
+1086,7193,Service,Официанты,256,265,positive
+1087,7193,Service,работают,266,274,positive
+1088,7193,Food,Еды,321,324,positive
+1089,7193,Whole,место,378,383,positive
+1090,7193,Food,пообедать,422,431,positive
+1091,36126,Whole,Старом Пловдиве,126,143,negative
+1092,36126,Whole,посещения,222,231,negative
+1093,36126,Whole,места,238,243,negative
+1094,36126,Interior,помещение,357,366,negative
+1095,36126,Interior,центральном зале,376,392,negative
+1096,36126,Food,кухня,410,415,negative
+1097,36126,Interior,внешний вид стола,419,436,negative
+1098,36126,Service,сотрудники,465,475,negative
+1099,36126,Service,администратор,478,491,negative
+1100,36126,Service,помогла,501,508,negative
+1101,36126,Service,официант,544,552,negative
+1102,36126,Service,работа,560,566,negative
+1103,36126,Service,приносила,620,629,negative
+1104,36126,Service,уносила,632,639,negative
+1105,36126,Service,спрашивала,648,658,neutral
+1106,36126,Service,советовала,675,685,negative
+1107,36126,Whole,ресторанах,723,733,negative
+1108,36126,Service,обслуживание,738,750,negative
+1109,36126,Whole,коллективу,786,796,negative
+1110,36126,Whole,ресторан,848,856,negative
+1111,7154,Whole,ресторан,20,28,positive
+1112,7154,Service,персонал,130,138,positive
+1113,7154,Food,Готовят,197,204,positive
+1114,7154,Food,мясные салаты,233,246,positive
+1115,7154,Food,пироги,249,255,positive
+1116,7154,Food,вино,267,271,positive
+1117,7154,Food,пиво,280,284,positive
+1118,7154,Interior,музыку,346,352,positive
+1119,7154,Whole,место,393,398,positive
+1120,10798,Whole,место,68,73,positive
+1121,10798,Whole,провести время,124,138,positive
+1122,10798,Interior,обстановке,155,165,positive
+1123,10798,Interior,свечи,198,203,positive
+1124,10798,Interior,столике,221,228,positive
+1125,10798,Interior,кресла,238,244,positive
+1126,10798,Interior,свет,259,263,positive
+1127,10798,Interior,музыка,265,271,positive
+1128,10798,Interior,аромат,273,279,positive
+1129,10798,Food,Японская кухня,300,314,positive
+1130,10798,Food,Европейская кухня,368,385,positive
+1131,10798,Price,цены,443,447,positive
+1132,10798,Service,сервис,463,469,positive
+1133,10798,Service,девушки,480,487,positive
+1134,10798,Service,принесли заказ,502,516,positive
+1135,10798,Food,коктели,531,538,positive
+1136,10798,Food,алкоголь,541,549,positive
+1137,28258,Food,поужинать,16,25,positive
+1138,28258,Service,встретил,69,77,positive
+1139,28258,Service,парковщик,78,87,positive
+1140,28258,Service,помог,89,94,positive
+1141,28258,Service,поприветствовал,144,159,positive
+1142,28258,Interior,Интерьер,161,169,positive
+1143,28258,Interior,дизайн,208,214,positive
+1144,28258,Service,обслуживала,270,281,positive
+1145,28258,Service,девушка,291,298,positive
+1146,28258,Service,помогла,370,377,positive
+1147,28258,Food,вареники,517,525,positive
+1148,28258,Food,суши,527,531,positive
+1149,28258,Food,вок,533,536,positive
+1150,28258,Food,пасты,538,543,positive
+1151,28258,Food,крем суп из белых грибов,600,624,positive
+1152,28258,Food,пенне с уткой,645,658,positive
+1153,28258,Food,Суп,670,673,positive
+1154,28258,Food,паста,690,695,positive
+1155,28258,Food,соуса,727,732,positive
+1156,28258,Food,мясо утки,741,750,positive
+1157,28258,Food,Пастой,752,758,positive
+1158,28258,Food,салат с говядиной,791,808,positive
+1159,28258,Food,карпаччо,811,819,positive
+1160,28258,Price,цены,822,826,positive
+1161,28258,Whole,визита,870,876,positive
+1162,28258,Food,поели,931,936,positive
+1163,28258,Whole,ресторан,965,973,positive
+1164,28258,Food,поварам,983,990,positive
+1165,28258,Service,персоналу,993,1002,positive
+1166,33043,Interior,Интерьер,33,41,positive
+1167,33043,Interior,музыка,63,69,positive
+1168,33043,Service,девушки,85,92,positive
+1169,33043,Food,еда,103,106,positive
+1170,33043,Food,Рубленные котлетки из лосося и судака с голландским соусом и белой спаржей,165,239,positive
+1171,33043,Food,куриное филе с котлетками из кабачков,241,278,positive
+1172,33043,Food,салат из тунца,280,294,positive
+1173,33043,Food,десерт с бананами,296,313,positive
+1174,33043,Food,блюдо,387,392,positive
+1175,33043,Service,Обслуживание,409,421,positive
+1176,33043,Service,улыбаются,478,487,positive
+1177,33043,Service,девушка хостес,561,575,positive
+1178,33043,Interior,столы,621,626,positive
+1179,33043,Service,нашла,677,682,positive
+1180,33043,Interior,место,701,706,positive
+1181,33043,Service,принес,714,720,positive
+1182,33043,Service,официант,721,729,positive
+1183,33043,Service,ждали,742,747,positive
+1184,33043,Service,заказали,782,790,positive
+1185,33043,Service,заказ,792,797,positive
+1186,33043,Service,принесли,798,806,positive
+1187,33043,Food,приготовили,880,891,positive
+1188,33043,Service,оставил,1017,1024,positive
+1189,33043,Whole,Шатер,1318,1323,positive
