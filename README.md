@@ -62,7 +62,7 @@ both          70
 Name: sentiment, dtype: int64
 ```
 
-
+![sample distribution](https://github.com/ddrodionova/NLP_ABSA_project/blob/main/img/sample_dist.png)
 #### Идеи решений
 Добавить корпуса, синонимы.
 
