@@ -3,8 +3,8 @@
 ## Навигация по коду 
 
 * [`Category_prediction`](/category/Category_prediction.ipynb) и [`Category_evaluation`](/category/Category_evaluation.ipynb) –– код для извлечение эксплицитных упоминаний аспектов.
-* [`BERT_ABSA_1.ipynb`](/category_tone/BERT_ABSA_1.ipynb) и [`BERT_ABSA_2.ipynb`](/category_tone/BERT_ABSA_2.ipynb)–– код для оценки тональности упоминания аспекта.
-* [`Sentiment_evaluation.ipynb`](/category_tone/Sentiment_evaluation.ipynb) ——  код для оценка тональности всего отзыва по категориям.
+* [`BERT_ABSA_1.ipynb`](/category_tone/BERT_ABSA_1.ipynb) и [`BERT_ABSA_2.ipynb`](/category_tone/BERT_ABSA_2.ipynb) –– код для оценки тональности упоминания аспекта.
+* [`Sentiment_evaluation.ipynb`](/category_tone/Sentiment_evaluation.ipynb) —— код для оценка тональности всего отзыва по категориям.
 
 ## Baseline 1: категория упоминаний
 
