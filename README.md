@@ -25,7 +25,7 @@
 
 2) Датасет с 147000 рецептами с сайта povarenok.ru. Использовалась только колонка с ингредиентами (брались названия продуктов), поскольку названия блюд были слишком длинные и их нужно было дополнительно парсить, но при попытке выделить NP из них с помощью yargy компьютер зависал и падал. (слишком большой файл для гитхаба, поэтому скачайте из источника) ([Источник](https://www.kaggle.com/rogozinushka/povarenok-recipes))
 
-3) Семантический датасет от КартыСлов (есть набор слов, где каждому соответсутвует тег какой-то семантической категории). Брались слова с тегами FOOD (для категории Food) и CONSTRUCTION (для категории Interior, поскольку там встречалась мебель) [`semantic_simple.csv`](category/semantic_simple.csv) ([Источник](https://raw.githubusercontent.com/dkulagin/kartaslov/master/dataset/open_semantics/simple/semantics_simple.csv))
+3) Семантический датасет от КартыСлов (есть набор слов, где каждому соответсутвует тег какой-то семантической категории). Брались слова с тегами FOOD (для категории Food) и CONSTRUCTION (для категории Interior, поскольку там встречалась мебель) [`semantics_simple.csv`](category/semantics_simple.csv) ([Источник](https://raw.githubusercontent.com/dkulagin/kartaslov/master/dataset/open_semantics/simple/semantics_simple.csv))
 
 Результаты хранятся в файлах вида pred_asp.csv (без всего), pred_asp_arg.csv (векторы+алгоритмы) и pred_asp_arg_dict.csv (векторы+алгоритмы+словари), где вместо arg -  название алгоритм.
 
