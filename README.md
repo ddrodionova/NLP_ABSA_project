@@ -61,7 +61,7 @@ negative     500
 both          70
 Name: sentiment, dtype: int64
 ```
-
+![sample distribution](https://github.com/ddrodionova/NLP_ABSA_project/blob/main/img/sample_dist.jpg)
 
 #### Идеи решений
 Можно попробовать различные способы аугментации данных: заменять слова на синонимы, попробовать иначе решить проблему дисбаланса классов. Ещё можно добавить различные корпуса. 
