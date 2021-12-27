@@ -1,5 +1,11 @@
 # Аспектно-ориентированная оценка тональности отзывов на рестораны
 
+## Навигация по коду 
+
+* [`Category_prediction`](/category/Category_prediction.ipynb) и [`Category_evaluation`](/category/Category_evaluation.ipynb) —– код для извлечение эксплицитных упоминаний аспектов.
+* [`category_sentiment_1.ipynb`](/category_tone/category_sentiment_1.ipynb) —— код для оценки тональности упоминания аспекта.
+
+1. 
 ## Baseline 1: категория упоминаний
 
 Основной способ, которым мы пользуемся - crf (через pycrfsuite). Для этого делаем bio-разметку данных.
